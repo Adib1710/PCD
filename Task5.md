@@ -1,5 +1,5 @@
 
-# Pseudo Code Patterning, Ditthering, Bit Plane Slacing
+# Algoritma Patterning, Ditthering, Bit Plane Slacing
 
 ## Patterning
 Menentukan banyak pola patterning yang akan digunakan, jika matriks yang digunakan adalah 3x3 maka jumlah pola pattern yang dihasilkan adalah sebanyak 10. Jika matriks yang digunakan adalah 4x4 maka jumlah pola yang dihasilkan sebanyak 17. Rumusnya = ukuran matriks ditambah 1.
